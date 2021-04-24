@@ -1,9 +1,15 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
-h1{
-    background:red;
+.banner-container{
+    background-color: #CACACA;
 }
-h2{
-    color: blue;
+.banner-column{
+    background-color: #4d4d4d;
+}
+.navbar-container{
+    background-color: rgb(39, 38, 39);
+}
+.about-container{
+    background-color: rgb(238, 1, 206);
 }
